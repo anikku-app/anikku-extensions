@@ -1,4 +1,5 @@
 ext {
+    kmkBaseVersion = 1
     extName = 'HiAnime'
     extClass = '.HiAnime'
     themePkg = 'zorotheme'
